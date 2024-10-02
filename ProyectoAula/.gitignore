@@ -1,0 +1,56 @@
+# Archivos y carpetas comunes que se generan
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Archivos de configuración de Visual Studio
+.vs/
+*.vscode/
+
+# Archivos de configuración de Rider
+.idea/
+*.sln.ide
+
+# Archivos de NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Archivos de respaldo
+*~ 
+*.bak
+*.tmp
+
+# Archivos de compilación de C#
+*.class
+*.cache
+*.idb
+*.ipch
+*.sbr
+*.tlog
+*.lastbuildstate
+
+# Archivos de reportes de cobertura
+coverage/
+*.cover
+
+# Archivos de configuración de entorno
+.env
+.env.local
+.env.*.local
+
+# Otros
+*.log
+*.dmg
+*.zip
+*.tar.gz
+*.rar
+*.7z
